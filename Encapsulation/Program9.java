@@ -7,7 +7,7 @@
 //public: public static void main: compiler looks for classes that are public to complie
 //if no access specfier is mentioned, default is considered
 //private: cant be accessed, if needed, getters and setters to be used.
-
+//datahiding- this way of showing user information selectively we call it data hiding.
 class Details{
     public String name;
     public String email;
